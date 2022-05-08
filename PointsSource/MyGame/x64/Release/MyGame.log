@@ -1,0 +1,41 @@
+﻿  Game.cpp
+D:\Studying\BaseOfProgramming\CourseWork\MyGame\MyGame\MyGame\Game.cpp(148,65): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Studying\BaseOfProgramming\CourseWork\MyGame\MyGame\MyGame\Game.cpp(148,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Studying\BaseOfProgramming\CourseWork\MyGame\MyGame\MyGame\Game.cpp(158,76): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Studying\BaseOfProgramming\CourseWork\MyGame\MyGame\MyGame\Game.cpp(158,47): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Studying\BaseOfProgramming\CourseWork\MyGame\MyGame\MyGame\Game.cpp(166,44): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\Studying\BaseOfProgramming\CourseWork\MyGame\MyGame\MyGame\Game.cpp(171,46): warning C4244: аргумент: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\Studying\BaseOfProgramming\CourseWork\MyGame\MyGame\MyGame\Game.cpp(299,83): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Studying\BaseOfProgramming\CourseWork\MyGame\MyGame\MyGame\Game.cpp(299,58): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Studying\BaseOfProgramming\CourseWork\MyGame\MyGame\MyGame\Game.cpp(332,83): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Studying\BaseOfProgramming\CourseWork\MyGame\MyGame\MyGame\Game.cpp(332,58): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+  Создание кода
+  4 of 266 functions ( 1.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  MyGame.vcxproj -> D:\Studying\BaseOfProgramming\CourseWork\MyGame\MyGame\x64\Release\MyGame.exe
